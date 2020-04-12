@@ -2,4 +2,4 @@
 
 ## Hello, World?
 
-### A simple time-honoured tradition in programming, used here to get myself acquainted with Github.
+### a Time-honoured tradition in programming.
